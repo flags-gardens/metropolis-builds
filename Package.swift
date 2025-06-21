@@ -34,7 +34,7 @@ let package = Package(
             // The URL and checksum below are placeholders.
             // Your GitHub Actions workflow will automatically replace these values
             // every time you create a new release.
-            url: "https://github.com/flags-gardens/metropolis-builds/releases/download/v0.0.8/UnityFramework.xcframework.zip",
+            url: "https://github.com/flags-gardens/metropolis-builds/releases/download/v0.0.9/UnityFramework.xcframework.zip",
             checksum: "79d1ee7849c4bb85c70b0bc79faf9f96eb91b2dea8cfabb48824ae76702eac4a"
         )
     ]
